@@ -21,7 +21,7 @@
 * В какое время самые дорогие поездки
 * В какие самые популярные места ездят люди и откуда уезжают чаще всего
 
-Подробнее в [блокноте](eda/taxi_eda.ipynb).
+Ответы на вопросы и некоторые выводы по данным можно посмотреть в [блокноте](eda/taxi_eda.ipynb).
 
 ## Визуализация
  Дашборд доступен по [ссылке](https://public.tableau.com/views/NYCtaxidashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
